@@ -8,6 +8,7 @@ Method:
 To accomplish this objective, the following steps were taken:
 
 Data Cleaning: The data underwent thorough cleaning to ensure accuracy and consistency, laying a solid foundation for analysis.
+
 Data Analysis: The cleaned data was scrutinized to identify key performance indicators vital for understanding the Superstore's financial and operational health.
 Tableau Dashboard Creation: Leveraging Tableau's capabilities, a dynamic dashboard was crafted, offering interactive visualizations for end users to explore and derive insights.
 
