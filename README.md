@@ -1,4 +1,4 @@
-# Sales-Dashboard-for-Furniture-Retail
+# Sales Dashboard for Furniture Retail
 
 Objective:
 The objective of this project is to create a Tableau dashboard that showcases the Superstore's current and forecasted financial and operational performance, aligning with the industry's need for data-driven decision-making.
