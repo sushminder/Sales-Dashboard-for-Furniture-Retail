@@ -15,5 +15,7 @@ Tableau Dashboard Creation: Leveraging Tableau's capabilities, a dynamic dashboa
 Conclusion:
 In an industry where every sale, trend, and decision holds significance, Tableau emerges as a transformative tool for furniture showrooms. Its customizable dashboards, dynamic time-travel features, and intuitive interface empower users to unlock the full potential of data analytics, offering a clear path to success in an ever-evolving market. As furniture showrooms embrace the data-driven revolution, Tableau stands as a steadfast ally, poised to guide them towards sustained growth and prosperity through informed decision-making.
 
+![Screenshot 2024-05-08 201440](https://github.com/sushminder/Sales-Dashboard-for-Furniture-Retail/assets/60948011/0b47bdf5-b422-43cc-8454-dd89f8e897dd)
+
 
 https://public.tableau.com/views/SalesDashboard_17151997160070/SalesDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
