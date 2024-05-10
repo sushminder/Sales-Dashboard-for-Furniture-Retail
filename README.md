@@ -7,9 +7,9 @@ The objective of this project is to create a Tableau dashboard that showcases th
 Method:
 To accomplish this objective, the following steps were taken:
 
-Data Cleaning: The data underwent thorough cleaning to ensure accuracy and consistency, laying a solid foundation for analysis.
+1. Data Cleaning: The data underwent thorough cleaning to ensure accuracy and consistency, laying a solid foundation for analysis.
 
-Data Analysis: The cleaned data was scrutinized to identify key performance indicators vital for understanding the Superstore's financial health.
+2. Data Analysis: The cleaned data was scrutinized to identify key performance indicators vital for understanding the Superstore's financial health.
 Tableau Dashboard Creation: Leveraging Tableau's capabilities, a dynamic dashboard was crafted, offering interactive visualizations for end users to explore and derive insights.
 
 Conclusion:
