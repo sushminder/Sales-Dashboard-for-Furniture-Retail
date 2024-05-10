@@ -4,7 +4,6 @@ Objective:
 The objective of this project is to create a Tableau dashboard that showcases the furniture retail's current(year 2017) and previous year sales performance, aligning with the industry's need for data-driven decision-making.
 
 
-Method:
 To accomplish this objective, the following steps were taken:
 
 1. Data Cleaning: The data underwent thorough cleaning to ensure accuracy and consistency, laying a solid foundation for analysis.
